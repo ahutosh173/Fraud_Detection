@@ -10,7 +10,7 @@ Anomaly Detection – Detects unusual transaction behaviors
 Automated Alerts– Flags high-risk transactions instantly 
 
 Tech Stack
-Programming Python (Flask, Streamlit)
+Programming Python (FastAPI, Streamlit)
 Machine Learning: Scikit-learn, XGBoost, Random Forest
 Data Processing: Pandas, NumPy, Matplotlib, Seaborn
 Database: SQLite / MongoDB for transaction storage
